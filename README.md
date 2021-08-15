@@ -2,8 +2,8 @@
 <h3 align="center">🚀 Computer Science 🚀</h3>
 
 
-- 👨‍🎓 At the moment, I am the WTMLead @ GDSC GES COENGG .
-- 🔭 I’m currently learning & Improving Data Structures  Algorithms 
+- 👨‍🎓 At the moment, I am a part of GDSC GES COENGG .
+- 🔭 I’m currently learning & Improving Data Structures and Algorithms 
 - 🌱 I’m currently pursuing Bachelors of Engineering in Computer Science
 - 👯 I’m looking to collaborate on ML & Python projects
 - 💬 Ask me about Machine Learning & Data Science related Stuff
