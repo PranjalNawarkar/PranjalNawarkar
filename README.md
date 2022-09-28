@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Computer Science 🚀</h3>
 
 
-- 👨‍🎓 At the moment, I am the Women Techmakers Lead of GDSC GES COENGG .
+- 👨‍🎓 At the moment, I am the Women Techmakers Lead of Google Developer Student Club.
 - 🔭 I’m currently learning & Improving Data Structures and Algorithms 
 - 🌱 I’m currently pursuing Masters in Computer Science
 - 👯 I’m looking to collaborate on ML & Python projects
