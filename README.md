@@ -4,7 +4,7 @@
 
 - 👨‍🎓 At the moment, I am the Women Techmakers Lead of GDSC GES COENGG .
 - 🔭 I’m currently learning & Improving Data Structures and Algorithms 
-- 🌱 I’m currently pursuing Bachelors of Engineering in Computer Science
+- 🌱 I’m currently pursuing Masters in Computer Science
 - 👯 I’m looking to collaborate on ML & Python projects
 - 💬 Ask me about Machine Learning & Data Science related Stuff
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/nawarkarpranjal/) 
