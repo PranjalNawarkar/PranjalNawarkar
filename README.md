@@ -4,7 +4,6 @@
 
 - 👨‍🎓 At the moment, I am pursuing Master's in Computer Science.
 - 🔭 I’m currently learning & Improving Data Structures and Algorithms 
-- 🌱 I’m currently working on a project by NASA Space SUITS.
 - 👯 I’m looking to collaborate on ML & Python projects
 - 💬 Ask me about Machine Learning & Data Science related Stuff
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/nawarkarpranjal/) 
