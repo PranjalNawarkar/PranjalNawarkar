@@ -5,7 +5,7 @@
 - 👨‍🎓 At the moment, I am pursuing Master's in Computer Science.
 - 🔭 I’m currently learning & Improving Data Structures and Algorithms 
 - 👯 I’m looking to collaborate on ML & Python projects
-- 💬 Ask me about Machine Learning & Data Science related Stuff
+- 💬 Ask me about Machine Learning & Cloud Security
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/nawarkarpranjal/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:nawarkarpranjal@gmail.com)
 
